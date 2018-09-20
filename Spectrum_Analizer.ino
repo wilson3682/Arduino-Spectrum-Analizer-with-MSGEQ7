@@ -217,7 +217,7 @@ void full_column_dot(void) {
         colors[i][j].active = 0;
       }
     }
-    //colors[i][picchi[i]].active=1;
+    //colors[i][peaks[i]].active=1;
   }
 }
 
